@@ -15,3 +15,5 @@
 # Дашборд
 
 Как запустить стримлитыч : https://colab.research.google.com/drive/1y-3z1ZWb-NUwttprvc6gCs9J2DNYquxz?usp=sharing
+
+Ванин дашборд: https://colab.research.google.com/drive/16VtjEiP2B88Lvl2L7MBOVznvxrQDVDXp?usp=sharing
