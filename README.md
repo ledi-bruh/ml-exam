@@ -1,7 +1,9 @@
 # Наши репозетории
 
 Маля : https://github.com/melskiy/ml
+
 Ваня: https://github.com/IvanBugaenko/MachineLearning-Labs
+
 🍉 [Андрей](https://github.com/ledi-bruh/ml-labs)
 
 # Материалы по предобработке и моделям
